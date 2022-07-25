@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1591718308 source:f:\new folder\http\httptcpclient.cpp
+	"httptcpclient.h"
+	"httpcli.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1591442781 f:\new folder\http\httptcpclient.h
+	"tcpclient.h"
+
+1591373941 f:\new folder\http\tcpclient.h
+	"tcpsocket.h"
+
+1587090552 f:\new folder\http\tcpsocket.h
+	"socket.h"
+
+1587091495 f:\new folder\http\socket.h
+	<string>
+	<exception>
+
+1587090568 source:f:\new folder\http\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1583727540 source:f:\new folder\http\cli.cpp
+	<iostream>
+	<cstring>
+	"cli.h"
+
+1583727540 f:\new folder\http\cli.h
+	<cstdint>
+	<string>
+
+1591707877 source:f:\new folder\http\httpcli.cpp
+	<iostream>
+	"httpcli.h"
+	"cstring"
+	<string>
+	"httptcpclient.h"
+	<stdio.h>
+
+1591442782 f:\new folder\http\httpcli.h
+	"cli.h"
+	"tcpsocket.h"
+	"httptcpclient.h"
+
+1591038895 source:f:\new folder\http\main.cpp
+	<iostream>
+	"httpcli.h"
+
+1587090536 source:f:\new folder\http\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+
+1587090582 source:f:\new folder\http\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpsocket.h"
+
+1583727540 source:f:\new folder\http_client\cli.cpp
+	<iostream>
+	<cstring>
+	"cli.h"
+
+1583727540 f:\new folder\http_client\cli.h
+	<cstdint>
+	<string>
+
+1597490183 source:f:\new folder\http_client\httptcpclient.cpp
+	"httptcpclient.h"
+	"httpcli.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1597407999 f:\new folder\http_client\httptcpclient.h
+	"tcpclient.h"
+
+1591373941 f:\new folder\http_client\tcpclient.h
+	"tcpsocket.h"
+
+1587090552 f:\new folder\http_client\tcpsocket.h
+	"socket.h"
+
+1587091495 f:\new folder\http_client\socket.h
+	<string>
+	<exception>
+
+1597372911 f:\new folder\http_client\httpcli.h
+	"cli.h"
+	"tcpsocket.h"
+	"httptcpclient.h"
+
+1591038895 source:f:\new folder\http_client\main.cpp
+	<iostream>
+	"httpcli.h"
+
+1587090568 source:f:\new folder\http_client\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1587090536 source:f:\new folder\http_client\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+
+1587090582 source:f:\new folder\http_client\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpsocket.h"
+
+1597491347 source:f:\new folder\http_client\httpcli.cpp
+	<iostream>
+	"httpcli.h"
+	"cstring"
+	<string>
+	"httptcpclient.h"
+	<stdio.h>
+	<vector>
+
